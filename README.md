@@ -1,7 +1,7 @@
 # Visitor Management System (VMS)
 ## (Project by Bangmetric LLC)
 ## Team :
-### Project Manager : Gundeep Singh (Devops Specialist)
+### Project Manager : Gundeep Singh (DevOps Specialist)
 ### Team Leader : Neeraj Kumar
 ### Gurdeep Singh
 ### Front End Team : Anuj Kumar Singh, Aayush Kumar Roy
@@ -27,6 +27,8 @@
 ## Project Schedule :
 * We here used the agile methodology in the development of Visitor Management System.
 * The Agile software development methodology is one of the simplest and effective processes to turn a vision for a business need into software solutions. Agile is a term used to describe software development approaches that employ continual planning, learning, improvement, team collaboration, evolutionary development, and early delivery. It encourages flexible responses to change.
+![image](https://user-images.githubusercontent.com/54369528/109427241-7b83be00-7a17-11eb-9e20-b32235fd51b2.png)
+
 * The agile software development emphasizes on four core values.
 
 1. Individual and team interactions over processes and tools
@@ -34,7 +36,10 @@
 3. Customer collaboration over contract negotiation
 4. Responding to change over following a plan
 
-* It took two sprints of two weeks( including backend development, front end development, integration, and testing) each in this project
+* It took two sprints of two weeks( including backend development, front end development, integration, and testing) each in this project.
+
+![image](https://user-images.githubusercontent.com/54369528/109428654-ef28c980-7a1d-11eb-9cb2-263a444f191a.png)
+
 
 ## Flow Chart :
 ### User booking appointment outside premises :
@@ -47,6 +52,8 @@
 ![image](https://user-images.githubusercontent.com/54369528/109418039-3eee9d00-79ec-11eb-8746-a7919c636f31.png)
 
 ## Database schema :
+![image](https://user-images.githubusercontent.com/54369528/109427137-f4364a80-7a16-11eb-8eb8-0921d73f59bb.png)
+
 ![image](https://user-images.githubusercontent.com/54369528/109417939-bf60ce00-79eb-11eb-80e6-155d45ba0558.png)
 
 ![image](https://user-images.githubusercontent.com/54369528/109417931-b53ecf80-79eb-11eb-87f7-7bd69fd85250.png)
