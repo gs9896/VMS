@@ -45,11 +45,40 @@
 ### User booking appointment outside premises :
 ![image](https://user-images.githubusercontent.com/54369528/109418006-123a8580-79ec-11eb-9af5-91a51d9cf32b.png)
 
+Here in this flow it is described how visitor can book thier appointment using VMS application without even going to meeting site.
+* Visitor will first see VMS landing page there they have to click on BOOK APPOINTMENT.
+* After that they see a Visit form where the  user have to fill details like Full Name, Phone Number, Email, Host and the Purpose of visit.
+* On click to Proceed user will see a thank you page and receives mail for appointment verification.
+* Then user needs to verify their appointment via link received in mail.
+* After Appointment verification user will receive check in/out token which they have to use on visit to site.
+* On premise visitor have to use the token received via mail earlier to check-in and after entering the token user check-in time will be noted and image will also be captured at that time.
+* Afer meeting with particular host user have to use check out token to exit and the check-out time will be recorded and thankyou for your visit message will be received.
+
+
 ### Visitor on premises : 
 ![image](https://user-images.githubusercontent.com/54369528/109418027-254d5580-79ec-11eb-83bb-2ca0ee9d6f4c.png)
 
+Here in this flow it is described how visitor entering premises can check-in using VMS application.
+* Visitor first of all will view Check-in/out page.
+* There visitor have to click on NEW VISITOR and he/she will be redirected to visit form.
+* At visit form user have to enter their details, host they want to meet and the purpose of the meeting.
+* On click to proceed user will be redirected to click image and save details.
+* After that visitor details and check in time will be recorded and receives mail regarding check out token.
+* Host will also get a mail for their meeting with Visitor.
+* After that user can enter premises.
+* Now at the time of check out user have to use the token received via mail and can successfully check-out from the building.
+
 ### Admin Portal :
 ![image](https://user-images.githubusercontent.com/54369528/109418039-3eee9d00-79ec-11eb-8746-a7919c636f31.png)
+
+Here in this flow Admin portal is described and the features admin can use.
+* First of all Admin needs to login to the portal.
+* Admin enters the credentials and validation occurs, if credentials are valid admin will see portal.
+* There at admin portal admin can see visitor's table regarding visitor's check in/out and other records, can add new host to VMS, can download Records CSV, opens the visitor's portal.
+* To see visitor's records admin have to click on Visit table.
+* To add new host admin clicks on ADD HOST and after that fill form regarding host name, host designation, phone number, email and click on ADD HOST. New host will be added to the database.
+* To download CSV of Visitor's records admin have to click on CSV and CSV file be downloaded and saved on local system.
+* Admin also have to open Visitors landing page at reception for visitors check in/out.
 
 ## Database schema :
 ![image](https://user-images.githubusercontent.com/54369528/109427137-f4364a80-7a16-11eb-8eb8-0921d73f59bb.png)
