@@ -12,14 +12,29 @@
 
 ## Technology Used :
 ### Front End :
-* HTML ![image](https://user-images.githubusercontent.com/54369528/109418632-727ef680-79ef-11eb-9bd0-9065843a0553.png)
-* CSS ![image](https://user-images.githubusercontent.com/54369528/109418644-83c80300-79ef-11eb-8750-8356bcb9b5e8.png)
+* HTML 
+* CSS 
+* Bootstrap
+* View.JS
+* Font awesome
+* Jquery
 
+### Back End :
+* Django Rest framework (DRF)
+* Python
+* PostgreSQL
+
+## Flow Chart :
+### User booking appointment outside premises :
 ![image](https://user-images.githubusercontent.com/54369528/109418006-123a8580-79ec-11eb-9af5-91a51d9cf32b.png)
+
+### Visitor on premises : 
 ![image](https://user-images.githubusercontent.com/54369528/109418027-254d5580-79ec-11eb-83bb-2ca0ee9d6f4c.png)
+
+### Admin Portal :
 ![image](https://user-images.githubusercontent.com/54369528/109418039-3eee9d00-79ec-11eb-8746-a7919c636f31.png)
 
-### project
+## Database schema :
 ![image](https://user-images.githubusercontent.com/54369528/109417939-bf60ce00-79eb-11eb-80e6-155d45ba0558.png)
 
 ![image](https://user-images.githubusercontent.com/54369528/109417931-b53ecf80-79eb-11eb-87f7-7bd69fd85250.png)
