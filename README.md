@@ -85,11 +85,23 @@ Here in this flow Admin portal is described and the features admin can use.
 
 ![image](https://user-images.githubusercontent.com/54369528/109427137-f4364a80-7a16-11eb-8eb8-0921d73f59bb.png)
 
-### d
+### Visitor's -> Visit database schema :
+* Visitors to Visit database is ( one to many relationship )
+* As single user can be mapped to multiple appointments so single vistor database has many relations with visits.
 
 ![image](https://user-images.githubusercontent.com/54369528/109417939-bf60ce00-79eb-11eb-80e6-155d45ba0558.png)
 
+### Visitor -> Host database schema :
+* Visitor to Host database is ( many to many relationship )
+* A single visitor can book many hosts and multiple visitors can book a single host.
+* So many visitor can have appointment with many hosts so many to many relationship holds here with Visitor to Host database schema.
+
 ![image](https://user-images.githubusercontent.com/54369528/109417931-b53ecf80-79eb-11eb-87f7-7bd69fd85250.png)
+
+### Visits -> Host database schema :
+* Visit to Appointment verification token is ( one to one relationship )
+* A single visit will generate a single verification token and a single verfication token can verfiy a single visit.
+* So Visit to Host database is one to one relationship.
 
 ![image](https://user-images.githubusercontent.com/54369528/109417920-a0623c00-79eb-11eb-98ac-a414c3de9dfe.png)
 
