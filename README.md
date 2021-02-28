@@ -24,6 +24,16 @@
 * Python
 * PostgreSQL
 
+## Project Schedule :
+* We here used the agile methodology in the development of Visitor Management System.
+* The Agile software development methodology is one of the simplest and effective processes to turn a vision for a business need into software solutions. Agile is a term used to describe software development approaches that employ continual planning, learning, improvement, team collaboration, evolutionary development, and early delivery. It encourages flexible responses to change.
+The agile software development emphasizes on four core values.
+
+Individual and team interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+* It took two sprints of two weeks( including backend development, front end development, integration, and testing) each in this project
 ## Flow Chart :
 ### User booking appointment outside premises :
 ![image](https://user-images.githubusercontent.com/54369528/109418006-123a8580-79ec-11eb-9af5-91a51d9cf32b.png)
