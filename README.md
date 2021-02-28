@@ -27,13 +27,15 @@
 ## Project Schedule :
 * We here used the agile methodology in the development of Visitor Management System.
 * The Agile software development methodology is one of the simplest and effective processes to turn a vision for a business need into software solutions. Agile is a term used to describe software development approaches that employ continual planning, learning, improvement, team collaboration, evolutionary development, and early delivery. It encourages flexible responses to change.
-The agile software development emphasizes on four core values.
+* The agile software development emphasizes on four core values.
 
-Individual and team interactions over processes and tools
-Working software over comprehensive documentation
-Customer collaboration over contract negotiation
-Responding to change over following a plan
+1. Individual and team interactions over processes and tools
+2. Working software over comprehensive documentation
+3. Customer collaboration over contract negotiation
+4. Responding to change over following a plan
+
 * It took two sprints of two weeks( including backend development, front end development, integration, and testing) each in this project
+
 ## Flow Chart :
 ### User booking appointment outside premises :
 ![image](https://user-images.githubusercontent.com/54369528/109418006-123a8580-79ec-11eb-9af5-91a51d9cf32b.png)
@@ -50,4 +52,5 @@ Responding to change over following a plan
 ![image](https://user-images.githubusercontent.com/54369528/109417931-b53ecf80-79eb-11eb-87f7-7bd69fd85250.png)
 
 ![image](https://user-images.githubusercontent.com/54369528/109417920-a0623c00-79eb-11eb-98ac-a414c3de9dfe.png)
+
 
