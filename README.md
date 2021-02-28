@@ -81,7 +81,11 @@ Here in this flow Admin portal is described and the features admin can use.
 * Admin also have to open Visitors landing page at reception for visitors check in/out.
 
 ## Database schema :
+### Complete VMS database schema :
+
 ![image](https://user-images.githubusercontent.com/54369528/109427137-f4364a80-7a16-11eb-8eb8-0921d73f59bb.png)
+
+### d
 
 ![image](https://user-images.githubusercontent.com/54369528/109417939-bf60ce00-79eb-11eb-80e6-155d45ba0558.png)
 
