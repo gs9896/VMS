@@ -1,7 +1,7 @@
 # Visitor Management System (VMS)
 ## (Project by Bangmetric LLC)
 ## Team :
-### project Manager : Gundeep Singh (Devops Specialist)
+### Project Manager : Gundeep Singh (Devops Specialist)
 ### Team Leader : Neeraj Kumar
 ### Gurdeep Singh
 ### Front End Team : Anuj Kumar Singh, Aayush Kumar Roy
@@ -9,6 +9,12 @@
 * A visitor management system provides you to track your visitors in and out of your Organisation. In a world full of people, you would want to know who wants to meet you and when.
 * VMS helps you track all those people wanting to come into your organisation and provides you a control whom to allow and when to allow.
 * No more unncessary crowd will be at your workplace and everyone who enters is recorded and valid.
+
+## Technology Used :
+### Front End :
+* HTML ![image](https://user-images.githubusercontent.com/54369528/109418632-727ef680-79ef-11eb-9bd0-9065843a0553.png)
+* CSS ![image](https://user-images.githubusercontent.com/54369528/109418644-83c80300-79ef-11eb-8750-8356bcb9b5e8.png)
+
 ![image](https://user-images.githubusercontent.com/54369528/109418006-123a8580-79ec-11eb-9af5-91a51d9cf32b.png)
 ![image](https://user-images.githubusercontent.com/54369528/109418027-254d5580-79ec-11eb-83bb-2ca0ee9d6f4c.png)
 ![image](https://user-images.githubusercontent.com/54369528/109418039-3eee9d00-79ec-11eb-8746-a7919c636f31.png)
